@@ -10,4 +10,4 @@ I'm planning on making this a library, because why not?
 
 ### Credit
 * [List of English words](https://github.com/dwyl/english-words)
-* [JSON Periodic Table data](https://github.com/dwyl/english-words)
+* [JSON Periodic Table data](https://github.com/Bowserinator/Periodic-Table-JSON)
